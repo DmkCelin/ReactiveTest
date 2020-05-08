@@ -1,0 +1,6 @@
+C:\Project\Test\ReactiveTest\ReactiveTest\bin\Debug\ReactiveTest.exe.config
+C:\Project\Test\ReactiveTest\ReactiveTest\bin\Debug\ReactiveTest.exe
+C:\Project\Test\ReactiveTest\ReactiveTest\bin\Debug\ReactiveTest.pdb
+C:\Project\Test\ReactiveTest\ReactiveTest\obj\Debug\ReactiveTest.csprojResolveAssemblyReference.cache
+C:\Project\Test\ReactiveTest\ReactiveTest\obj\Debug\ReactiveTest.exe
+C:\Project\Test\ReactiveTest\ReactiveTest\obj\Debug\ReactiveTest.pdb
